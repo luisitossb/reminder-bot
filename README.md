@@ -99,7 +99,7 @@ python bot.py
 ## Project Structure
 
 ```
-claptrap-python/
+music-bot/
 ├── bot.py              # Main bot file
 ├── .env                # Your tokens (create from .env.example)
 ├── .env.example        # Example environment file
