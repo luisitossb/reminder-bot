@@ -1,4 +1,4 @@
-# Claptrap Reminder Bot (Python)
+# Discord Reminder Bot (Python)
 
 A productivity Discord bot that integrates with Notion for daily quest tracking, includes an RPG-style XP/leveling system, and sends scheduled reminders.
 
